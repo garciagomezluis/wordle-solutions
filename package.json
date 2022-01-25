@@ -1,0 +1,10 @@
+{
+  "name": "wordle-solutions",
+  "version": "1.0.0",
+  "description": "wordle solutions",
+  "keywords": ["wordle", "solutions"],
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
