@@ -1,10 +1,12 @@
-# wordle solutions (ES)
+# [wordle](https://wordle.danielfrg.com/) solutions (ES)
 
-Soluciones a wordle (ES) hasta el día 20. No voy a subir los días siguientes.
+> Note: The game's code might have changed. Please refer to this snapshot: [wordle 2022-01-25](https://web.archive.org/web/20220125010618/https://wordle.danielfrg.com/)
 
-Solo para mostrar que es posible obtener esta información con mirar el código descargado por el browser: no spoilees.
+Just digged into the downloaded JS and found out that a batch of words for the next games are downloaded. Those words are encripted.
 
-[wordle](https://wordle.danielfrg.com/)
+Here you can check the word for an specific game.
+
+Solutions up to 2022-01-22
 
 `npm i`
 
